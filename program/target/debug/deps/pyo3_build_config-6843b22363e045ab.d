@@ -1,0 +1,14 @@
+/Users/andyfei/Desktop/学习/BU/DS 210/finalproject/main/target/debug/deps/libpyo3_build_config-6843b22363e045ab.rmeta: /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config-file.txt /Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config.txt
+
+/Users/andyfei/Desktop/学习/BU/DS 210/finalproject/main/target/debug/deps/libpyo3_build_config-6843b22363e045ab.rlib: /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config-file.txt /Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config.txt
+
+/Users/andyfei/Desktop/学习/BU/DS 210/finalproject/main/target/debug/deps/pyo3_build_config-6843b22363e045ab.d: /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config-file.txt /Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config.txt
+
+/Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs:
+/Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs:
+/Users/andyfei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs:
+/Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config-file.txt:
+/Users/andyfei/Desktop/学习/BU/DS\ 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.21.2
+# env-dep:OUT_DIR=/Users/andyfei/Desktop/学习/BU/DS 210/finalproject/main/target/debug/build/pyo3-build-config-6909f6a74b71d2c5/out
